@@ -7,7 +7,7 @@
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <br />
-<br />
+
 
 Hai, nama saya Muhammad Umar Mansyur. Saya seorang mahasiswa di Universitas Madura. Sekarang, saya menempuh semester 5. Selain itu, saya sangat tertarik di dunia pemrograman, baik itu pemrograman web maupun pemrograman mobile.
 - 😄 Pronouns
