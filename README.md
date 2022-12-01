@@ -1,11 +1,12 @@
 ### Hai Semua 
+<br/>
 <a href="https://www.instagram.com/muhammad_umar_mansyur/">
   <img align="left" alt="Umar's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-
 <a href="https://twitter.com/Exkhasanguinate">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+
 <br />
 
 
@@ -15,6 +16,7 @@ Hai, nama saya Muhammad Umar Mansyur. Saya seorang mahasiswa di Universitas Madu
 
 
 ### Bahasa dan Alat yang saya gunakan
+<br/>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   <br/>
 - 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
