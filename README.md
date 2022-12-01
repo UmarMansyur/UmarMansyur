@@ -11,17 +11,12 @@
 <br/>
 
 Hai, nama saya Muhammad Umar Mansyur. Saya seorang mahasiswa di Universitas Madura. Sekarang, saya menempuh semester 5. Selain itu, saya sangat tertarik di dunia pemrograman, baik itu pemrograman web maupun pemrograman mobile.
-- 😄 Pronouns
-- ⚡ Fun fact
 
-
-### Bahasa dan Alat yang saya gunakan
+### Languages and Tools:
 - 🌐 HTML, CSS, JavaScript, PHP, Python
 - 🛢️ MySQL, MongoDB
 - 🔧 Visual Studio Code, Git, GitHub, XAMPP, Insomnia, Figma, Adobe XD
 - 🖥️ Windows, Linux, Mac Os
-
-<code 
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
@@ -52,7 +47,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=UmarMansyur&show_icons=true&theme=gotham" alt="UmarMansyur" />
 
 
 
