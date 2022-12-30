@@ -1,54 +1,37 @@
-### Hai Semua 
-<a href="https://www.instagram.com/muhammad_umar_mansyur/">
-  <img align="left" alt="Umar's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
+## Hi there 👋, I'm Muhammad Umar Mansyur\
 
-<a href="https://twitter.com/Exkhasanguinate">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<br />
+* 📚 I'm currently studying at the University of Madura
+* 🌱 I'm currently learning about Web Development & Mobile Development
+* 🥅 2023 Goals: Contribute more to Open Source projects
+* ⚡ Fun fact: I love to play games and watch anime
+#### 📫 How to reach me: 
+* [Instagram](https://www.instagram.com/umar_mansyur/)
+* [Facebook](https://www.facebook.com/muhammad_umar_mansyur)
+* [Twitter](https://twitter.com/umar_mansyur)
+* [Linkedin](https://www.linkedin.com/in/muhammad-umar-mansyur-5b1b1b1b1/)
+* [Telegram](https://t.me/umar_mansyur)
+* [Whatsapp](https://wa.me/628523139223)
+####🔧 Languages and Tools:
 
-<br/>
-
-Hai, nama saya Muhammad Umar Mansyur. Saya seorang mahasiswa di Universitas Madura. Sekarang, saya menempuh semester 5. Selain itu, saya sangat tertarik di dunia pemrograman, baik itu pemrograman web maupun pemrograman mobile.
-
-### Languages and Tools:
-- 🌐 HTML, CSS, JavaScript, PHP, Python
-- 🛢️ MySQL, MongoDB
-- 🔧 Visual Studio Code, Git, GitHub, XAMPP, Insomnia, Figma, Adobe XD
-- 🖥️ Windows, Linux, Mac Os
-
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-TypeScript   6 hrs 20 mins   ██████████████████░░░░░░░   71.88 %
-JSON         1 hr            ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
-JavaScript   57 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
-Bash         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
-HTML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-GraphQL      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-```
-
-<!--END_SECTION:waka-->
-
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NazirArifin&show_icons=true&theme=gotham" alt="UmarMansyur" />
-
-
-
-
+  <img alt="MacOS" src="https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=apple&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
+   <img alt="chrome
+  <img alt="vue" src="https://img.shields.io/badge/-VueJS-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img alt="express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
+   <img alt="nuxt" src="https://img.shields.io/badge/-NuxtJS-00C58E?style=flat-square&logo=nuxtdotjs&logoColor=white" />
+  <img alt="laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img alt="lumen" src="https://img.shields.io/badge/-Lumen-FF2D20?style=flat-square&logo=lumen&logoColor=white" />
+   <img alt="Codeigniter" src="https://img.shields.io/badge/-Codeigniter-FF2D20?style=flat-square&logo=codeigniter&logoColor=white" />
+   <img alt="flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img alt="nodejs" src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img alt="mysql" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="postgresql" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="boots" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+  
