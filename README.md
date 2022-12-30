@@ -5,11 +5,8 @@
 * 🥅 2023 Goals: Contribute more to Open Source projects
 * ⚡ Fun fact: I love to play games and watch anime
 ### 📫 How to reach me: 
-* [Instagram](https://www.instagram.com/umar_mansyur/)
+* [Instagram](https://www.instagram.com/muhammad_umar_mansyur/)
 * [Facebook](https://www.facebook.com/muhammad_umar_mansyur)
-* [Twitter](https://twitter.com/umar_mansyur)
-* [Linkedin](https://www.linkedin.com/in/muhammad-umar-mansyur-5b1b1b1b1/)
-* [Telegram](https://t.me/umar_mansyur)
 * [Whatsapp](https://wa.me/628523139223)
 
 ### 🔧 Languages and Tools:
