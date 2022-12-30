@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Muhammad Umar Mansyur\
+## Hi there 👋, I'm Muhammad Umar Mansyur
 
 * 📚 I'm currently studying at the University of Madura
 * 🌱 I'm currently learning about Web Development & Mobile Development
@@ -11,6 +11,7 @@
 * [Linkedin](https://www.linkedin.com/in/muhammad-umar-mansyur-5b1b1b1b1/)
 * [Telegram](https://t.me/umar_mansyur)
 * [Whatsapp](https://wa.me/628523139223)
+
 ####🔧 Languages and Tools:
 
   <img alt="MacOS" src="https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=apple&logoColor=white" />
