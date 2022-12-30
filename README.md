@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Muhammad Umar Mansyur\
+## Hi there 👋, I'm Muhammad Umar Mansyur
 
 * 📚 I'm currently studying at the University of Madura
 * 🌱 I'm currently learning about Web Development & Mobile Development
