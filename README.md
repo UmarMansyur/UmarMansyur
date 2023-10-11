@@ -4,6 +4,7 @@
 * 🌱 I'm currently learning about Web Development & Mobile Development
 * 🥅 2023 Goals: Contribute more to Open Source projects
 * ⚡ Fun fact: I love to play games and watch anime
+* 🙈 Awakku Isin Masse, ojok di jelu yoo ..
 ### 📫 How to reach me: 
 * [Instagram](https://www.instagram.com/muhammad_umar_mansyur/)
 * [Facebook](https://www.facebook.com/muhammad_umar_mansyur)
