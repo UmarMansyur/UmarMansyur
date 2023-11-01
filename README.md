@@ -1,7 +1,7 @@
 ![image](https://github.com/UmarMansyur/UmarMansyur/assets/70986579/d06bb3dd-98b6-4db4-bc67-ede0a9b57f64)
 <hr>
 <p align="center">
-  <img src="[http://some_place.com/image.png](https://media.tenor.com/7qC2jp4WPbYAAAAC/naruto-hokage.gif)" />
+  <img src="https://media.tenor.com/7qC2jp4WPbYAAAAC/naruto-hokage.gif" />
 </p>
 
 * 📚 I'm currently studying at the University of Madura
