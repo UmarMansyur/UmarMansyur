@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Muhammad Umar Mansyur
 
-!['hokage'](http://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fhokage-gifs&psig=AOvVaw1uQyAjk4TCOFKwfxG8-rfb&ust=1698883935107000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCmvP7BoYIDFQAAAAAdAAAAABAj)
+!['hokage'](https://media.tenor.com/7qC2jp4WPbYAAAAC/naruto-hokage.gif)
 
 * 📚 I'm currently studying at the University of Madura
 * 🌱 I'm currently learning about Web Development & Mobile Development
