@@ -1,8 +1,5 @@
-![image](https://github.com/UmarMansyur/UmarMansyur/assets/70986579/d06bb3dd-98b6-4db4-bc67-ede0a9b57f64)
-<hr>
 
-[![image](https://github.com/UmarMansyur/UmarMansyur/blob/main/github-header-image%20(1).png)
-
+![image](https://github.com/UmarMansyur/UmarMansyur/blob/main/github-header-image%20(1).png)
 <hr>
 <p align="center">
   <img src="https://media.tenor.com/7qC2jp4WPbYAAAAC/naruto-hokage.gif" />
@@ -21,3 +18,5 @@
 
 ![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmarMansyur&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UmarMansyur&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<hr>
+![image](https://github.com/UmarMansyur/UmarMansyur/assets/70986579/d06bb3dd-98b6-4db4-bc67-ede0a9b57f64)
