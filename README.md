@@ -20,4 +20,4 @@
 
 ![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmarMansyur&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UmarMansyur&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UmarMansyur&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UmarMansyur&repo=github-readme-stats&theme=transparent)](https://github.com/UmarMansyur/github-readme-stats)
